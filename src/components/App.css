@@ -1,0 +1,35 @@
+.app {
+  width: 1000px;
+  margin-left: 15px;
+  background-color: white;
+  overflow: auto;
+}
+
+.phonebook {
+  border: 1px solid black;
+  width: 500px;
+}
+.phonebook-form {
+  margin-left: 15px;
+}
+
+.button-add {
+  margin-top: 15px;
+  display: block;
+  margin-bottom: 10px;
+}
+.contacts {
+  margin-left: 15px;
+}
+.list {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 10px;
+}
+.list-item {
+  margin-bottom: 7px;
+}
+.button-delete {
+  margin-left: 15px;
+}
